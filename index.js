@@ -274,4 +274,3 @@ var Nodes = {
   setTimeout( function() {
     Nodes.init();
 }, 10 );
-{"mode":"full","isActive":false}
